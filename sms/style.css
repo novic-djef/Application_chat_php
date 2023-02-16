@@ -1,0 +1,48 @@
+*{
+    padding: 10;
+    margin: 10;
+}
+.debut h1 {
+    text-align: center;
+    color: darkblue;
+}
+ .row {
+     display: block;
+     text-align: center;
+     justify-content: center ;
+     align-self:flex-end;
+     padding: 50px;
+
+ }
+  button {
+      border-radius: 19px;
+      background-color: blue;
+      color: aliceblue;
+      width: 90px;
+      height: 40px;
+  }
+  input {
+      width: 400px;
+      height: 30px;
+      border-radius: 9px;
+  }
+  textarea {
+    width: 400px;
+    height: 60px;
+    border-radius: 9px;
+  }
+  select {
+    width: 400px;
+    height: 30px;
+    border-radius: 9px;
+  }
+  .rowo {
+    display:block;
+    text-align: center;
+    padding: 15px;
+
+   }
+ option span {
+       color: rgb(150, 143, 143);
+   }
+
